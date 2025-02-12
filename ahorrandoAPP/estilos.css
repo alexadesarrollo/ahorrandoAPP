@@ -1,0 +1,14 @@
+.fondo{
+    background-image: url(./img/AHORRA.avif);
+    padding: 25%;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.menu{
+    background-color:#c98bad ;
+}
+.colorfooter{
+    background-color: #c98bad;
+}
